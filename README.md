@@ -6,8 +6,9 @@
 
 
 ### 🏆 Awards
-Name,Grade,Date,Note
-,,,
-,,,
-,,,
+| Name       | Grade | Date       | Note           |
+|------------|-------|------------|----------------|
+| Alice      | A     | 2025-10-17 | Excellent      |
+| Bob        | B     | 2025-10-16 | Needs Review   |
+| Charlie    | C     | 2025-10-15 | Improvement    |
 <hr style="border: 0; border-top: 1px solid #000000;" />
